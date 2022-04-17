@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "fastticket-1926a",
+  "private_key_id": "f609674e14a6eb50fbd28a3a5fba3e7a017acd28",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCxmI8tJZn7iVzi\nMB83nuvOiV0otdB1FiuqVem0EKjhdpNA9mjrQ939BTmp9f9MRnlYlXMT93qWXTcS\naYf5TkP9K/+jjJ+c0JWmtruBHMU6ua22zIgvzBv8g1r+zCRMbO0wUDA/KrX0Vf9f\nzYNcPN4Imv1a1yNdaCzhDinIfXo89oWL9zdBu4ScBUAXNVm63xrADm3YvVMg6ODC\nr2FLmCsUpYkqc6JLPqEDFIDPBlEfaKTAIpu6pEjvrW5FL1mRPujK2LL2NyoP6q6g\n+JCMACYt1P116Rjptt4NvIrKCQ5IC5xB551t1nEEdUFKWsbLAXyVM+LXPSD30+EV\n5Iwgqm7FAgMBAAECggEABX1eRk/TE96Z+Oyc4mwZWkU5FHuTnzLuvvFbQTOB95Th\n62Wn4PHe8vsjiQNE1NeZg6lRqSyCumgqPiRLTY5jn/f+tdBbKg6b5E83ZOp97EP2\nFeBPq2PnT5Bt59IT+IAmJX1Xvcl1CMGpxw0uwiioLQ2WxvqUf3GAxaTZmiF1fbHh\n8Mhws1PgYdy6jyzKLkVbG3vr/qPC1zpTviXjX95bwRM1UUqQGvhX7eiKolTkvo/v\nKSUmcNHx/rxesu3xNo8BGLgKxJcHAcO8e483gPc7QsrBrCUTJQGk5Rj4RMpVcdP4\nUAf7yGuoArRMurBAddHnGXq9ZM6KUgJtmfQ49NiQ0QKBgQDdj+8qsYDjJVp1Hq/1\nLH9ti+FZ0U9Uw9kxR9C5iFIep/Dytkdc+XQ7K4OLwQ+fbyC4S95vIoOQMnGRou9J\nZettOdnssugCWDcjUNFSA1kf8U3ef5Ws63NF3uoWjqpA1jPIj8aYbTeCAXI2RuI+\n7AoFGNY3pehL+EH4vaKh8SBAeQKBgQDNMy9Z/jOMdNIfy/l1cIvbhEof25GcWH2m\ncqOo6ObbZwCnUu6ok8LUFk+/AZjgo8pDzm66bLwinMuibLc1vhMkUsigpt7oQ+Ap\nsuJt1eAij5dif0b67Qqi2fu1fTHpioRCT0A8HGMmOySk6O+dEhQkLqYitar05l7M\nhEF2d2CFrQKBgQDYL9iTVO3JNapk+1N/rDKOZl21sRlyQUNM5aERV6WhSgc+HIPX\ngYRbM+NAW1nuHJXVnhnlYMz0x3OvQkev26XzRu6QGiVuHDt41yPXnXK6S07K2rzm\nJDuvIopRBlWzvA59FWUXWAJAdT7HHTUnZlOEk656UAUxE4Tzu73TvB7XKQKBgB8V\nye6QG68DY3F9rOSlkApJGBGLaZuNrDsy0qgb4B0MlYTDg3P2LmWCm8ILs+UT6ugq\ntYt4PWfg6NhKL9bsXGn8QHhVzx7QaXznpHWPGM0jg4NgVJheoGXbL85mkNEYMsD4\n0HpKsppwCzUQNHxO6M4yYuiPLL68x0+kGWag3vZhAoGAVCv4MCm/H3mejJCJt8xd\nsLjhMhevIVylXxa9p4S46ky4Js/zO/B+mK3BKN/PmJ08Z1PGJcXzW1oYNPlVd3Ly\nzj5wbuWr+791HJ9NSQORCPfz1wjPxwASDtlzHuDr5K3x+91fqnCGH73WWJB008jU\naNQSu8u5/Xzwd6d+l2TUYNs=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-8wt4w@fastticket-1926a.iam.gserviceaccount.com",
+  "client_id": "115577402624154244619",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-8wt4w%40fastticket-1926a.iam.gserviceaccount.com"
+}
